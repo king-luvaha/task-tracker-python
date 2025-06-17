@@ -4,7 +4,7 @@
 
 Task Tracker CLI is a simple command-line application for managing your tasks. It allows you to add, update, delete, and track the status of tasks (todo, in-progress, done). All tasks are stored in a JSON file for persistence between sessions.
 
-Project URL: https://github.com/king-luvaha/task-tracker-python
+Project URL: https://roadmap.sh/projects/task-tracker
 
 ## Features
 
